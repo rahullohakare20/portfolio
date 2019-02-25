@@ -10,7 +10,7 @@ function MainNav(props) {
             <li><NavLink to="/experience"><span>Experience</span></NavLink></li>
             <li><NavLink to="/resume"><span>Resume</span></NavLink></li>
         </ul>
-        <a  className="cd-close-menu">Close<span></span></a>
+        <button className="cd-close-menu">Close<span></span></button>
     </nav>
     )
 }

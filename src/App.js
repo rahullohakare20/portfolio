@@ -4,7 +4,7 @@ import Home from './home/home';
 import About from './about/about';
 import Experience from './experience/experience';
 import Resume from './resume/resume';
-import { BrowserRouter, Route, NavLink } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 
 class App extends Component {
     state = {

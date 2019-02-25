@@ -15,7 +15,7 @@ function About(props) {
 
                         <div className="col-md-6 col-sm-6 col-xs-12">
                             <div className="about-photo">
-                                <img src="assets/images/man.png" alt="About Photo"/>
+                                <img src="assets/images/man.png" alt="About"/>
                             </div>
                         </div>
 
@@ -30,7 +30,7 @@ function About(props) {
                                     consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et
                                     iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis
                                     dolore.</p>
-                                <a href="#" className="btn btn-default">Hire Me !</a>
+                                <a className="btn btn-default">Hire Me !</a>
                             </div>
                         </div>
 
