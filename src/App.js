@@ -21,13 +21,10 @@ class App extends Component {
     return (
         <BrowserRouter>
         <React.Fragment>
-            {/*<div class='preloader'><div class='loaded'>&nbsp;</div></div>*/}
-
             <Route exact path="/" render={() => <Home isMenuOpen={this.state.isMenuOpen} toggleMenu={this.toggleMenu} />} />
             <Route path="/about" render={() => <About isMenuOpen={this.state.isMenuOpen} toggleMenu={this.toggleMenu} />} />
             <Route path="/experience" render={() => <Experience isMenuOpen={this.state.isMenuOpen} toggleMenu={this.toggleMenu} />} />
             <Route path="/resume" render={() => <Resume isMenuOpen={this.state.isMenuOpen} toggleMenu={this.toggleMenu} />} />
-
         </React.Fragment>
         </BrowserRouter>
     );

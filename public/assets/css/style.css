@@ -781,13 +781,7 @@ Main components
     -moz-transition-duration: 0.5s;
     transition-duration: 0.5s;
 }
-.home-main-content.move-out {
-    -webkit-transform: scale(0.6);
-    -moz-transform: scale(0.6);
-    -ms-transform: scale(0.6);
-    -o-transform: scale(0.6);
-    transform: scale(0.6);
-}
+
 .no-js .home-main-content {
     height: auto;
     overflow-x: auto;
