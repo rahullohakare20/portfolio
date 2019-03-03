@@ -21,16 +21,20 @@ function About(props) {
 
                         <div className="col-md-6 col-sm-6 col-xs-12">
                             <div className="about-content text-left">
-                                <h4>Hi, i’m Rahul Lohakare, Experience Crafter from Canada.</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                                    euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad
-                                    minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut
-                                    aliquipex ea commodo consequat.</p>
-                                <p> Duis autem vel eum iriure dolorin hendrerit in vulputate velit esse molestie
-                                    consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et
-                                    iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis
-                                    dolore.</p>
-                                <a className="btn btn-default">Hire Me !</a>
+                                <h4>Hi, i’m Rahul Lohakare, Experience UI developer from Pune.</h4>
+                                <p>I've <b>4.6</b> years of extensive hands on experience in Web and UI developement</p>
+                                <p><b>Skills:</b></p>
+                                <p>
+                                    <ul>
+                                        <li>React : 1 year</li>
+                                        <li>Es6 : 2 years</li>
+                                        <li>Angular JS : 3 years</li>
+                                        <li>Angular 2-6 : 2.5 years</li>
+                                        <li>Javascript : 4 years</li>
+                                        <li>HTML5, css3, JQuery, bootstrap, git, jira, gerrit, Jasmin, karma, redux and sass</li>
+                                    </ul>
+                                </p>
+                                {/*<a className="btn btn-default">Hire Me !</a>*/}
                             </div>
                         </div>
 
