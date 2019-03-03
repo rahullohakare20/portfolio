@@ -21,7 +21,7 @@ function About(props) {
 
                         <div className="col-md-6 col-sm-6 col-xs-12">
                             <div className="about-content text-left">
-                                <h4>Hi, i’m Rahul Lohakare, Experience UI developer from Pune.</h4>
+                                <h4>Hi, I’m Rahul Lohakare, Experienced UI developer from Pune.</h4>
                                 <p>I've <b>4.6</b> years of extensive hands on experience in Web and UI developement</p>
                                 <p><b>Skills:</b></p>
                                 <p>
