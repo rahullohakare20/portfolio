@@ -9,6 +9,7 @@ function MainNav(props) {
             <li><NavLink to="/about"><span>About</span></NavLink></li>
             <li><NavLink to="/experience"><span>Experience</span></NavLink></li>
             <li><NavLink to="/resume"><span>Resume</span></NavLink></li>
+            <li><a target="_blank" href="https://github.com/rahullohakare20"><span>My Git Hub</span></a></li>
         </ul>
         <button className="cd-close-menu">Close<span></span></button>
     </nav>

@@ -4,7 +4,6 @@ import MainNav from '../mainNav/MainNav';
 import './experience.css'
 
 function Experience(props) {
-
     return (
         <React.Fragment>
         <MainNav {...props} />
